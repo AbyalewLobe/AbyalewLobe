@@ -35,10 +35,10 @@ I'm a self-taught passionate Full Stack Developer from Ethiopia, specializing in
 
 **🔥 My Projects**
 
-<a href="https://github.com/AbyalewLobe/project-one">
+<a href="https://github.com/AbyalewLobe/Real-Estate-App-using-MERN-and-Tailwind-css">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=project-one&theme=radical&bg_color=0D1117" />
 </a>
-<a href="https://github.com/AbyalewLobe/project-two">
+<a href="https://github.com/AbyalewLobe/E-commerce-website-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=project-two&theme=radical&bg_color=0D1117" />
 </a>
 
