@@ -62,19 +62,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbyalewLobe&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
-<!--
-## ✍️ Latest Blog Posts
-<div align="center">
-  
-[![Readme Blog Cards](https://github-readme-blog-cards.vercel.app/api/get-blogs?username=AbyalewLobe&base_url=https://yourblog.com&title_color=FF7F50&description_color=c9cacc&background_color=1d1f21&border_color=FF7F50&icon_color=2bbc8a&cache_seconds=86400)](https://yourblog.com)
 
-<!-- Animated Typing Effect for Blog Titles -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=20&pause=1500&color=FF7F50&width=500&height=30&lines=Latest+Article%3A+Post+Title+1;Latest+Article%3A+Post+Title+2;Latest+Article%3A+Post+Title+3" alt="Typing Blog Titles" />
-</a>
-
-</div>
--->
 ## 📫 How to reach me:
 - LinkedIn: [Abyalew Lobe](https://linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
