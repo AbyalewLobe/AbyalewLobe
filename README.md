@@ -1,73 +1,45 @@
-# Hi there, I'm Abyalew Lobe 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=28&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+<br />
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AbyalewLobe&label=Profile%20views&color=FF7F50&style=flat-square" alt="AbyalewLobe" /> 
-</p>
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-## 🛠️ Technologies & Tools
+**About me**
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 💬 Ask me about anything [here](https://github.com/AbyalewLobe/AbyalewLobe/issues)
 
-### 🔧 Tools
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/AbyalewLobe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbyalewLobe&show_icons=true&line_height=27&count_private=true&title_color=FF7F50&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" />
-  </a>
-  <a href="https://github.com/AbyalewLobe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyalewLobe&hide=html,css&title_color=FF7F50&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
-  </a>
-</div>
+| <a href="https://github.com/AbyalewLobe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbyalewLobe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AbyalewLobe's github stats" /></a> | <a href="https://github.com/AbyalewLobe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyalewLobe&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbyalewLobe&theme=dark&hide_border=true&background=1d1f21&stroke=FF7F50&ring=FF7F50&fire=FF7F50" />
-</p>
+#### Top Repositories
 
-## 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbyalewLobe&theme=react-dark&bg_color=1d1f21&hide_border=true&area=true&area_color=FF7F50&line=FF7F50&point=FFFFFF" alt="Activity Graph">
-</p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbyalewLobe&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
-</p>
+<a href="https://github.com/AbyalewLobe/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/AbyalewLobe/AbyalewLobe.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=AbyalewLobe.github.io&theme=buefy" />
+</a>
 
-## 📫 How to reach me:
-- LinkedIn: [Abyalew Lobe](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: labaylew@gmail.com
+<br />
+<br />
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/AbyalewLobe/count.svg" alt="Visitor Count" />
-</p>
+<a href="https://twitter.com/AbyalewLobe">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/AbyalewLobe/AbyalewLobe/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/AbyalewLobe">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/AbyalewLobe/anuraghazra/master/assets/codesandbox.svg" />
+</a>
