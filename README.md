@@ -19,23 +19,23 @@ I'm a self-taught passionate Full Stack Developer from Ethiopia, specializing in
 
 **🛠 Tech Stack**
 
-<code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="24" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="24" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="24" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="24" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="24" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="24" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="24" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **📊 GitHub Stats**
 
 <div align="center">
   <a href="https://github.com/AbyalewLobe">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbyalewLobe&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F50&icon_color=FF7F50" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbyalewLobe&show_icons=true&count_private=true&theme=default&title_color=3498db&text_color=2c3e50&icon_color=3498db&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/AbyalewLobe">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyalewLobe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F50" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyalewLobe&layout=compact&theme=default&title_color=3498db&text_color=2c3e50&bg_color=ffffff&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -43,26 +43,29 @@ I'm a self-taught passionate Full Stack Developer from Ethiopia, specializing in
 
 <div align="center">
   <a href="https://github.com/AbyalewLobe/Real-Estate-App-using-MERN-and-Tailwind-css">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=Real-Estate-App-using-MERN-and-Tailwind-css&theme=radical&bg_color=0D1117&title_color=FF7F50" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=Real-Estate-App-using-MERN-and-Tailwind-css&theme=default&title_color=3498db&text_color=2c3e50&bg_color=ffffff&hide_border=true" />
   </a>
   <a href="https://github.com/AbyalewLobe/E-commerce-website-">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=E-commerce-website-&theme=radical&bg_color=0D1117&title_color=FF7F50" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=E-commerce-website-&theme=default&title_color=3498db&text_color=2c3e50&bg_color=ffffff&hide_border=true" />
   </a>
 </div>
 
 **🌐 Connect With Me**
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle">
-    <img height="24" alt="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img height="24" alt="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
   </a>
-  <a href="https://abyalewlobe.dev">
-    <img height="24" alt="Portfolio" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Website.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://abyalewlobe.dev" target="_blank">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/icloud.svg" />
   </a>
-  <a href="mailto:labaylew@gmail.com">
-    <img height="24" alt="Email" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:labaylew@gmail.com" target="_blank">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />
   </a>
 </p>
