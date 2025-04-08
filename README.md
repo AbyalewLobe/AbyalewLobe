@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbyalewLobe&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
-
+<!--
 ## ✍️ Latest Blog Posts
 <div align="center">
   
@@ -74,7 +74,7 @@
 </a>
 
 </div>
-
+-->
 ## 📫 How to reach me:
 - LinkedIn: [Abyalew Lobe](https://linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
