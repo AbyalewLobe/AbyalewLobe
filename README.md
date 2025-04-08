@@ -30,29 +30,39 @@ I'm a self-taught passionate Full Stack Developer from Ethiopia, specializing in
 
 **📊 GitHub Stats**
 
-| <a href="https://github.com/AbyalewLobe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbyalewLobe&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abyalew's GitHub stats" /></a> | <a href="https://github.com/AbyalewLobe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyalewLobe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/AbyalewLobe">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbyalewLobe&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F50&icon_color=FF7F50" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AbyalewLobe">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyalewLobe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F50" alt="Top Languages" />
+  </a>
+</div>
 
 **🔥 My Projects**
 
-<a href="https://github.com/AbyalewLobe/Real-Estate-App-using-MERN-and-Tailwind-css">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=project-one&theme=radical&bg_color=0D1117" />
-</a>
-<a href="https://github.com/AbyalewLobe/E-commerce-website-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=project-two&theme=radical&bg_color=0D1117" />
-</a>
+<div align="center">
+  <a href="https://github.com/AbyalewLobe/Real-Estate-App-using-MERN-and-Tailwind-css">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=Real-Estate-App-using-MERN-and-Tailwind-css&theme=radical&bg_color=0D1117&title_color=FF7F50" />
+  </a>
+  <a href="https://github.com/AbyalewLobe/E-commerce-website-">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbyalewLobe&repo=E-commerce-website-&theme=radical&bg_color=0D1117&title_color=FF7F50" />
+  </a>
+</div>
 
 **🌐 Connect With Me**
 
-<a href="https://twitter.com/yourhandle">
-  <img height="24" alt="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img height="24" alt="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
-</a>
-<a href="https://abyalewlobe.dev">
-  <img height="24" alt="Portfolio" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Website.svg" />
-</a>
-<a href="mailto:labaylew@gmail.com">
-  <img height="24" alt="Email" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/yourhandle">
+    <img height="24" alt="Twitter" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img height="24" alt="LinkedIn" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
+  </a>
+  <a href="https://abyalewlobe.dev">
+    <img height="24" alt="Portfolio" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Website.svg" />
+  </a>
+  <a href="mailto:labaylew@gmail.com">
+    <img height="24" alt="Email" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
+  </a>
+</p>
