@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://AbyalewLobe.github.io">
-    <img width="80%" alt="Hello, I'm Abyalew Lobe | Full Stack Developer" src="./assets/ab.jpg" />
+    <img width="81%" alt="Hello, I'm Abyalew Lobe | Full Stack Developer" src="./assets/ab.jpg" />
   </a>
 </p>
 
